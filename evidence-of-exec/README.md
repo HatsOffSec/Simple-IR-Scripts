@@ -1,0 +1,1 @@
+Inspiration for the evidence of execution scripts was from https://blog.1234n6.com/2018/10/available-artifacts-evidence-of.html
